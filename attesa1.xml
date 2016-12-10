@@ -2,5 +2,5 @@
     <Say voice="alice" language="it-IT">Benvenuto!Stiamo cercando un'operatore disponibile</Say>
         <Pause length="5"/>
     <Say voice="alice" language="it-IT">Nessun operatore è al momento raggiungibile,attendi in linea o prenota la chiamata</Say>    
-    <Enqueue waitUrl="wait-music.xml">support</Enqueue>
+ <Play loop="1000">https://instaud.io/_/EKx.mp3</Play>
 </Response>
