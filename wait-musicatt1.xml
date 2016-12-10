@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="alice" language="it-IT">Nessun operatore è al momento raggiungibile,attendi in linea o prenota la chiamata</Say>    
+    <Play>https://instaud.io/_/EKx.mp3</Play>
+</Response>
