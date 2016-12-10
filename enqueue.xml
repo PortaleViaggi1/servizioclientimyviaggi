@@ -1,4 +1,3 @@
 <Response>
     <Say voice="alice" language="it-IT">Benvenuto!Stiamo cercando un'operatore disponibile</Say>
-    <Enqueue waitUrl="wait.xml">support</Enqueue>
 </Response>
