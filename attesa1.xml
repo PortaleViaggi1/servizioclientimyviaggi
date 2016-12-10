@@ -2,5 +2,5 @@
     <Say voice="alice" language="it-IT">Benvenuto!Stiamo cercando un'operatore disponibile</Say>
         <Pause length="5"/>
     <Say voice="alice" language="it-IT">Nessun operatore è al momento raggiungibile,attendi in linea o prenota la chiamata</Say>    
-    <Enqueue waitUrl="https://portaleviaggi1.github.io/servizioclientimyviaggi/wait-musicatt1.xml">support</Enqueue>
+    <Enqueue waitUrl="wait-music.xml">support</Enqueue>
 </Response>
