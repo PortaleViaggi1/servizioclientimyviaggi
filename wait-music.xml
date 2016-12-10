@@ -1,4 +1,4 @@
 <Response>
-    <Play>https://instaud.io/_/EKx.mp3</Play>
+    <Play loop="1000">https://instaud.io/_/EKx.mp3</Play>
     <Say voice="alice" language="it-IT">Ti preghiamo di attendere in linea</Say>    
 </Response>
