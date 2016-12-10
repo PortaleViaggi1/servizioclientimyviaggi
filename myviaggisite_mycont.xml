@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="alice" language="it-IT">Attenzione per assistenza sul PortaleViaggi bisognava selezionare due questo è solo per portalmyviaggi.ml e mycontenuti.ml!</Say>
+    <Redirect>https://raw.githubusercontent.com/PortaleViaggi1/servizioclientimyviaggi/gh-pages/attesa1.xml</Redirect>
+</Response>
